@@ -1,3 +1,3 @@
 # Crest Info Systems Frontend
 
-This is my backend project.
+This is nodejs backend project.
